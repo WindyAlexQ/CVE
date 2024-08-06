@@ -13,7 +13,7 @@ Attack Vectors : Users can insert JavaScript statements by controlling website_h
 
 Stored Cross-Site Scripting
 
-![](vx_images/259173815259273.png =800x)
+![](https://github.com/WindyAlexQ/CVE/blob/main/images/259173815259273.png)
 
 request packet
 
