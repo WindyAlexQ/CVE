@@ -38,4 +38,4 @@ page_id=4&section_id=4&static=1&formtoken=23cd25eb-c83644b5f00c0344e9652534dc6a7
 
 
 
-![](vx_images/516704015247140.png =800x)
+![](https://github.com/WindyAlexQ/CVE/blob/main/images/516704015247140.png)
